@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+streamlit
+google-generativeai
+PyPDF2
+python-docx
+pypandoc
+beautifulsoup4
+odfpy
+striprtf
+python-dotenv
+=======
+streamlit
+google-generativeai
+PyPDF2
+python-docx
+pypandoc
+beautifulsoup4
+odfpy
+striprtf
+python-dotenv
+>>>>>>> 0c570e8b64c32722961946d520dd55494ae33194
